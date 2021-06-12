@@ -1,0 +1,1 @@
+This read me contains simple text in the 0x00 vagrant dir
